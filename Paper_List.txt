@@ -1,0 +1,7 @@
+1.Direct Sparse Odometry
+2.g2o_ A general framework for graph optimization
+3.Inverse Depth Parametrization
+4.LSD-SLAM: Large-Scale Direct Monocular SLAM
+5.CNN_SLAM Realtime dense monocular SLAM with learned depth prediction
+6.Towards Semantic SLAM using a Monocular Camera
+

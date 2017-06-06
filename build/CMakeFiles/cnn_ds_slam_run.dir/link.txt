@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11    CMakeFiles/cnn_ds_slam_run.dir/src/main.cpp.o  -o bin/cnn_ds_slam_run -rdynamic lib/libcnn_ds_slam.a -lboost_system -lboost_thread 
