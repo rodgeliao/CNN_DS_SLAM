@@ -1,2 +1,0 @@
-/usr/bin/ar cr lib/libcnn_ds_slam.a  CMakeFiles/cnn_ds_slam.dir/src/util/MatrixType.cpp.o CMakeFiles/cnn_ds_slam.dir/src/util/DataSetReader.cpp.o
-/usr/bin/ranlib lib/libcnn_ds_slam.a

@@ -1,2 +1,0 @@
-/home/ripple/Ripple_Paper_Code/build/CMakeFiles/cnn_ds_slam.dir
-/home/ripple/Ripple_Paper_Code/build/CMakeFiles/cnn_ds_slam_run.dir
